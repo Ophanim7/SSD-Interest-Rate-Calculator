@@ -1,0 +1,15 @@
+The details of the assesment simply say the solution has to be related the topic.
+Therefore, seeing as interest has two types these should both be implemented to the application.
+
+Simple interest - Interest = principal * interest rate * Time (in years)
+Essentially as though you withdrew the interest earnings everytime you were paid rather than putting back into the principal (original amount you started with)
+
+
+Compound interest - P * (1 + r)^2
+                    P Principal
+                    r annual interest rate
+                    t time (in years)
+Accrued funds from interest is added to the original amount and interest applies to that new greater principal.
+You are earning interest on interest.
+
+
